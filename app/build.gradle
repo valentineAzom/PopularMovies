@@ -18,7 +18,7 @@ android {
         }
     }
     buildTypes.each {
-        it.buildConfigField 'String', 'MOVIEE_API_KEY', '"59841d8cc39253215d9614a6db56db6d"'
+        it.buildConfigField 'String', 'MOVIEE_API_KEY', '"XXXXXXXXXXXXXXXXXXXXXXXXX"'
     }
 }
 repositories {
